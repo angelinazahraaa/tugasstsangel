@@ -1,0 +1,1 @@
+<?php /**PATH C:\laragon\www\angel\resources\views/navbar.blade.php ENDPATH**/ ?>
